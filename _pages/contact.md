@@ -19,7 +19,7 @@ Welcome to my network:
 </a>
   
 <a href="https://www.researchgate.net/profile/Taha-El-Hajji">
- <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/ca33c5b7-787e-4f5e-a913-b398e95f4645" style="float: right; width:100px;height:100px;"/> 
+ <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/ca33c5b7-787e-4f5e-a913-b398e95f4645" style="float: center; width:100px;height:100px;"/> 
 </a>          
 
           
