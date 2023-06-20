@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Taha El Hajji"
 title_separator          : "-"
 name                     : &name "Dr. Taha El Hajji"
-description              : &description "Researcher on electric machines"
+description              : &description "Researcher on Electric Machines"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Taha El Hajji"
   avatar           : "Photo_Taha_Github.png"
-  bio              : "Researcher on electric machines"
+  bio              : "Researcher on Electric Machines"
   location         : # "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
