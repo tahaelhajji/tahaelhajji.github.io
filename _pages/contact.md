@@ -25,7 +25,7 @@ Welcome to my network:
 
  \
  <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/">
- <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/db2e4132-5937-43bd-bec7-35e5dddcf4cc" style="width:100px;height:100px;"/>
+ <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/db2e4132-5937-43bd-bec7-35e5dddcf4cc" style="width:120px;height:120px;"/>
 </a>
 
 
