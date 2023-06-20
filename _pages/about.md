@@ -14,5 +14,5 @@ I'm a postdoctoral researcher at A. University.
 
 I'm currently working on the design and optimization of high speed electric machines for transport electrification.
 
-Open for meaningful collaboration: [Contact me](taha.elhajji@gmail.com).
+Open for meaningful collaboration: [Contact me](https://www.linkedin.com/feed/).
 
