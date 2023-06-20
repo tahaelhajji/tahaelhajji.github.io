@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Taha El Hajji / Site Title"
+title                    : "Dr. Taha El Hajji"
 title_separator          : "-"
 name                     : &name "Dr. Taha El Hajji"
 description              : &description "Researcher on electric machines"
