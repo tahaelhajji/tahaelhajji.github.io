@@ -2,14 +2,17 @@
 title: "Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM"
 collection: publications
 permalink: /publication/2023-01-03-journal-paper-MDPI-Machines-1
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: The need of compact machines increased in recent years due to increases in raw materials’ price. Hence, many studies are currently being conducted on high-speed challenges to propose an optimal design methodology. AC losses in windings are often not included in the optimization process and are treated in post-processing by choosing a suitable conductor’s diameter to mitigate skin and proximity effects. This paper presents an optimization and design methodology for high-speed electric machines considering these losses, using models with an interesting trade-off between computation time and accuracy, which is helpful for large-scale optimization, in which more than 9,600,000 machines are evaluated. Optimizations are conducted on 100 kW high-speed one-layer V-shaped interior permanent magnet synchronous machines, widely used in vehicles thanks to their high power density, based on the specifications of the Peugeot e208, for different values of pole pairs and maximum speed. The influence of lamination thickness, fill factor, and maximum current density on the optimal design is also investigated. This paper concludes the utility of increasing speed to achieve high power density and proposes best alternatives regarding automotive constraints. Results show that the number of pole pairs is not always a key parameter in obtaining the lowest volume, especially at high speed.
 date: 2023-01-03
-venue: 'Journal 1'
-paperurl: 'http://tahaelhajji.github.io/files/MDPI_Machines_2023_1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Journal: MDPI Machines / Special Issue: Optimal Design of a High-Speed Motor'
+paperurl: '[Link to the paper](https://www.mdpi.com/2075-1702/11/1/57)'
+citation: 'T. El Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet, and M. Belhadi, “Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM,” Machines, vol. 11, no. 1, p. 57, Jan. 2023, doi: 10.3390/machines11010057'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://tahaelhajji.github.io/files/MDPI_Machines_2023_1.pdf)
+
+The need of compact machines increased in recent years due to increases in raw materials’ price. Hence, many studies are currently being conducted on high-speed challenges to propose an optimal design methodology. AC losses in windings are often not included in the optimization process and are treated in post-processing by choosing a suitable conductor’s diameter to mitigate skin and proximity effects. This paper presents an optimization and design methodology for high-speed electric machines considering these losses, using models with an interesting trade-off between computation time and accuracy, which is helpful for large-scale optimization, in which more than 9,600,000 machines are evaluated. Optimizations are conducted on 100 kW high-speed one-layer V-shaped interior permanent magnet synchronous machines, widely used in vehicles thanks to their high power density, based on the specifications of the Peugeot e208, for different values of pole pairs and maximum speed. The influence of lamination thickness, fill factor, and maximum current density on the optimal design is also investigated. This paper concludes the utility of increasing speed to achieve high power density and proposes best alternatives regarding automotive constraints. Results show that the number of pole pairs is not always a key parameter in obtaining the lowest volume, especially at high speed.
+
+
 
 Recommended citation: T. El Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet, and M. Belhadi, “Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM,” Machines, vol. 11, no. 1, p. 57, Jan. 2023, doi: 10.3390/machines11010057
