@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 3"
+title: "Hybrid model for AC Losses in High Speed PMSM for arbitrary flux density waveforms"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2020-08-23-conference-paper-ICEM-1
+excerpt: Increasing speed of electric machine leads to high losses especially in stator winding assembly due to eddy currents effect. Commonly adopted formula for AC losses calculation tends to be applicable in the case of sinusoidal flux density. In this paper, a hybrid model predicting AC winding loss is presented based on one slot per pole of surface-mounted permanent-magnet machines using two formula taking into account the true flux density waveform. The results obtained comply with finite-elements results. The hybrid model was also used to investigate the influence of tooth-tip on AC losses.
+date: 2020-08-23
+venue: 'International Conference on Electrical Machines (ICEM)'
+paperurl: 'https://ieeexplore.ieee.org/document/9271017'
+citation: 'T. E. Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet and M. Belhadi, "Hybrid model for AC Losses in High Speed PMSM for arbitrary flux density waveforms," 2020 International Conference on Electrical Machines (ICEM), Gothenburg, Sweden, 2020, pp. 2426-2432, doi: 10.1109/ICEM49940.2020.9271017'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://tahaelhajji.github.io/files/ICEM_2020_1.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Increasing speed of electric machine leads to high losses especially in stator winding assembly due to eddy currents effect. Commonly adopted formula for AC losses calculation tends to be applicable in the case of sinusoidal flux density. In this paper, a hybrid model predicting AC winding loss is presented based on one slot per pole of surface-mounted permanent-magnet machines using two formula taking into account the true flux density waveform. The results obtained comply with finite-elements results. The hybrid model was also used to investigate the influence of tooth-tip on AC losses.
+
+
+
+Cite this work: T. E. Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet and M. Belhadi, "Hybrid model for AC Losses in High Speed PMSM for arbitrary flux density waveforms," 2020 International Conference on Electrical Machines (ICEM), Gothenburg, Sweden, 2020, pp. 2426-2432, doi: 10.1109/ICEM49940.2020.9271017
