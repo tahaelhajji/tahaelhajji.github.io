@@ -15,4 +15,4 @@ The need of compact machines increased in recent years due to increases in raw m
 
 
 
-Recommended citation: T. El Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet, and M. Belhadi, “Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM,” Machines, vol. 11, no. 1, p. 57, Jan. 2023, doi: 10.3390/machines11010057
+Cite this work: T. El Hajji, S. Hlioui, F. Louf, M. Gabsi, G. Mermaz-Rollet, and M. Belhadi, “Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM,” Machines, vol. 11, no. 1, p. 57, Jan. 2023, doi: 10.3390/machines11010057
