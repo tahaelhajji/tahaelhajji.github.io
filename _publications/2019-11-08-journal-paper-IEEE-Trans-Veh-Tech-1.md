@@ -2,7 +2,7 @@
 title: "Efficiency Improvement of a Series–Parallel Hybrid Electric Powertrain by Topology Modification"
 collection: publications
 permalink: /publication/2019-11-08-journal-paper-IEEE-Trans-Veh-Tech-1
-excerpt: Among Series-Parallel Hybrid Electric Vehicle (SPHEV) powertrains, the Power-Split architecture with a planetary gear has an exemplary energetic efficiency in mixed driving conditions. Nevertheless, a simple SPHEV architecture can be realized without a planetary gear. It consists of 2 Electric Machines (EM) mounted on the engine shaft and separated by a clutch.
+excerpt: Among Series-Parallel Hybrid Electric Vehicle (SPHEV) powertrains, the Power-Split architecture with a planetary gear has an exemplary energetic efficiency in mixed driving conditions. Nevertheless, a simple SPHEV architecture can be realized without a planetary gear. It consists of 2 Electric Machines (EM) mounted on the engine shaft and separated by a clutch. With no power-split operation, this architecture allows the vehicle to operate in pure electric, or series hybrid, or parallel hybrid mode. It was proven to be less efficient than a reference Power-Split SPHEV; the Toyota Hybrid System (THS).
 date: 2019-11-08
 venue: 'IEEE Transactions on Vehicular Technology'
 paperurl: 'https://ieeexplore.ieee.org/document/8894384'
