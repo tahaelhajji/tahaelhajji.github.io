@@ -17,6 +17,9 @@ Welcome to my network:
 
 <a href="mailto:taha.elhajji@gmail.com"><imgsrc="imageGmailLogo.png" alt="Gmail Contact" style="width:100px;height:100px;"></a> 
 
+<a href="mailto:taha.elhajji@gmail.com">
+ <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/37ca1611-faec-4a0e-a97f-adb993a6a8b1" />
+</a>
 
  
  ![imageResearchGateLogo](https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/ca33c5b7-787e-4f5e-a913-b398e95f4645) [ResearchGate](https://www.researchgate.net/profile/Taha-El-Hajji) 
