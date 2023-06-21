@@ -8,6 +8,10 @@ date: 2022-03-01
 location: "E, F"
 ---
 
+35 h, Laboratory works on electric machines, transformers, and converters
+
+[Link to the training program](https://ecole-ingenieur.cnam.fr/alternance/apprentissage/diplome-d-ingenieur-specialite-genie-electrique-en-partenariat-avec-l-itii-ile-de-france-parcours-installation-distribution-energie-eclairage-1183576.kjsp?RH=1434379054526)
+
 
 Content
 ======
@@ -19,4 +23,3 @@ Lab: 35 h \
 Reports: 4 h
 
 
-[Link to the training program](https://ecole-ingenieur.cnam.fr/alternance/apprentissage/diplome-d-ingenieur-specialite-genie-electrique-en-partenariat-avec-l-itii-ile-de-france-parcours-installation-distribution-energie-eclairage-1183576.kjsp?RH=1434379054526)
