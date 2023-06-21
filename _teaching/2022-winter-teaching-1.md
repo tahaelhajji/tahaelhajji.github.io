@@ -8,7 +8,7 @@ date: 2022-11-01
 location: "E, F"
 ---
 
-
+ \
 Content
 ======
 The purpose of this laboratory work is to understand the basics of the induction machine operations.
