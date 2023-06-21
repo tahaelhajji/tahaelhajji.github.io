@@ -15,7 +15,7 @@ Welcome to my network:
 
 
 <a href="mailto:taha.elhajji@gmail.com">
- <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/37ca1611-faec-4a0e-a97f-adb993a6a8b1" vspace="20" class="center" style="width:60px;height:40px;"/> 
+ <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/37ca1611-faec-4a0e-a97f-adb993a6a8b1" vspace="20" class="right" style="width:60px;height:40px;"/> 
 </a>  \
 <a href="https://www.researchgate.net/profile/Taha-El-Hajji">
  <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/ca33c5b7-787e-4f5e-a913-b398e95f4645" vspace="20" class="center" style="width:60px;height:60px;"/> 
