@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /posts/
+permalink: /network-posts-archive/
 author_profile: true
 redirect_from:
-  - /posts
+  - /network-posts-archive
 ---
 
 {% include base_path %}
