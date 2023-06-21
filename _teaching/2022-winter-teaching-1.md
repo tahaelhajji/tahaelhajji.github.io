@@ -8,7 +8,6 @@ date: 2022-11-01
 location: "E, F"
 ---
 
-[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
 Content
 ======
@@ -18,5 +17,8 @@ investigate the operation of the machine in motoring mode.
 
 WorkLoad
 ======
-Lab: 4 h
+Lab: 4 h \
 Reports: 8 h
+
+[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
+
