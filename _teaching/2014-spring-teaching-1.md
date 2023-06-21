@@ -3,12 +3,12 @@ title: "Numerical Methods in Electromechanics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-winter-teaching-1
-venue: "A University, Department"
+venue: "A University, Department of Electrical Engineering and Automation"
 date: 2023-01-10
 location: "E, F"
 ---
 
-[Link to the course]()
+[Link to the course](aa)
 
 Learning Outcomes
 ======
