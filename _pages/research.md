@@ -7,5 +7,8 @@ redirect_from:
   - /research
 ---
 
+{% include base_path %}
+
+
 Research Interests:
 ======
