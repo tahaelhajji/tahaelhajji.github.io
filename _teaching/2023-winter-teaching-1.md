@@ -10,13 +10,15 @@ location: "E, F"
 
 
 
+ \
+Cotnent
+======
+Typical workflow for general numerical analysis. Problem formulations in electromagnetics, and their solution via FEM. Modelling circuit connections and motion, and post-processing the results for torque, losses, etc. Introduction to 3D problems and topical challenges on the field.
+
 Learning Outcomes
 ======
 The fundamentals of finite element analysis (FEM / FEA), especially in the scope of modelling electric machines.
 
-Cotnent
-======
-Typical workflow for general numerical analysis. Problem formulations in electromagnetics, and their solution via FEM. Modelling circuit connections and motion, and post-processing the results for torque, losses, etc. Introduction to 3D problems and topical challenges on the field.
 
 Work Load
 ======
