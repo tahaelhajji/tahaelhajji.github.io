@@ -8,6 +8,7 @@ date: 2023-01-10
 location: "E, F"
 ---
 
+
 [Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
 Learning Outcomes
