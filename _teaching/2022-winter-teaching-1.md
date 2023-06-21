@@ -8,7 +8,11 @@ date: 2022-11-01
 location: "E, F"
 ---
 
- \
+Laboratory works on induction machines, 4 h
+
+
+[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
+
 Content
 ======
 The purpose of this laboratory work is to understand the basics of the induction machine operations.
@@ -20,5 +24,4 @@ WorkLoad
 Lab: 4 h \
 Reports: 8 h
 
-[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
