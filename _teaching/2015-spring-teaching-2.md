@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Electromechanics - Laboratory works"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Laboratory works"
+permalink: /teaching/2022-winter-teaching-1
+venue: "A University, Department of Electrical Engineering and Automation"
+date: 2022-11-01
+location: "E, F"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
-Heading 1
+Content
 ======
+The purpose of this laboratory work is to understand the basics of the induction machine operations.
+We consider the induction machine as an independent generator and in a rigid network and
+investigate the operation of the machine in motoring mode.
 
-Heading 2
+WorkLoad
 ======
-
-Heading 3
-======
+Lab: 4 h
+Reports: 8 h
