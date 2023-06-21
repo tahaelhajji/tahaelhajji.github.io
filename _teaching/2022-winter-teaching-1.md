@@ -8,7 +8,7 @@ date: 2022-11-01
 location: "E, F"
 ---
 
-Laboratory works on induction machines, 4 h
+4 h, Laboratory works on induction machines
 
 
 [Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
