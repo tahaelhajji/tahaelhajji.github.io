@@ -8,7 +8,6 @@ date: 2022-03-01
 location: "E, F"
 ---
 
-[Link to the training program](https://ecole-ingenieur.cnam.fr/alternance/apprentissage/diplome-d-ingenieur-specialite-genie-electrique-en-partenariat-avec-l-itii-ile-de-france-parcours-installation-distribution-energie-eclairage-1183576.kjsp?RH=1434379054526)
 
 Content
 ======
@@ -16,5 +15,8 @@ The purpose of this laboratory work is the application of theoretical knowledge 
 
 WorkLoad
 ======
-Lab: 35 h
+Lab: 35 h \
 Reports: 4 h
+
+
+[Link to the training program](https://ecole-ingenieur.cnam.fr/alternance/apprentissage/diplome-d-ingenieur-specialite-genie-electrique-en-partenariat-avec-l-itii-ile-de-france-parcours-installation-distribution-energie-eclairage-1183576.kjsp?RH=1434379054526)
