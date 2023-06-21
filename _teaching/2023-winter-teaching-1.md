@@ -11,7 +11,7 @@ location: "E, F"
 
 
  \
-Cotnent
+Content
 ======
 Typical workflow for general numerical analysis. Problem formulations in electromagnetics, and their solution via FEM. Modelling circuit connections and motion, and post-processing the results for torque, losses, etc. Introduction to 3D problems and topical challenges on the field.
 
