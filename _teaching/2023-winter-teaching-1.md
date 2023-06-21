@@ -9,7 +9,6 @@ location: "E, F"
 ---
 
 
-[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
 Learning Outcomes
 ======
@@ -21,5 +20,7 @@ Typical workflow for general numerical analysis. Problem formulations in electro
 
 Work Load
 ======
-Lectures: 22 h
+Lectures: 22 h \
 Exercises: 20 h
+
+[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
