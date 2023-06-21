@@ -7,3 +7,5 @@ redirect_from:
   - /research
 ---
 
+Research Interests:
+======
