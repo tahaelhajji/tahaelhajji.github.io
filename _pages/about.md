@@ -19,5 +19,5 @@ I am currently Postdoctoral Researcher at <a href="https://www.aalto.fi/en" targ
 
 Open for meaningful collaboration around the globe.
 
-For any purposes, you can <a href="mailto:taha.elhajji@gmail.com">reach out to me</a>.
+For specific purposes, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.
 
