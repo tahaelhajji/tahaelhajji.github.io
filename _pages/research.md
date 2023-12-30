@@ -25,7 +25,13 @@ Paragraph Text
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-- **Design of Electric Machines**:  
+- **Experimental Work**:
+Paragraph Text  
+<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+Some Text
+
+- **Design of Electric Machines**:
+Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
@@ -34,7 +40,7 @@ Paragraph Text
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-- **Transport Electrification**: 
+- **Transport Electrification**:  
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
