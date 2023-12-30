@@ -12,4 +12,7 @@ redirect_from:
 
 <center> **Posts** </center>
 
+<center><b>centered</b></center>
+
+
 Test
