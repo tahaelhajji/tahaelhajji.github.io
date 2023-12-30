@@ -17,7 +17,7 @@ Research Interests:
 My research work on Electric Machines is focusing on:
 - High-Speed application:  
 Test 7
-![Illustration of electric machines](/images/homepage_electric_machines.png){: style="width=300px; float: left;"}
+<img src='/images/homepage_electric_machines.png' style="float:left;width:300px;">
 
 Some Text
 
