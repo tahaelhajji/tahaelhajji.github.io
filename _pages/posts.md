@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<center> **Posts** </center>  
+<center><b>Posts in Social Networks</b></center>  
 
-<center><b>centered</b></center>  
-
-<p style="text-align: center;">Centered text</p>  
 
 Test
