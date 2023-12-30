@@ -10,5 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-<p style="text-align: center;">Posts</p>
+<center> **Posts** </center>
+
 Test
