@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illustration of electric machines](/images/homepage_electric_machines_1.png){: .align-right width="300px"}
+![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="300px"}
 I'm Taha. This is my official website.
 
 I graduated with a PhD in Electrical Engineering at [École Normale Supérieure] (https://ens-paris-saclay.fr/en), faculty of [Paris-Saclay University] (https://www.universite-paris-saclay.fr/en).
