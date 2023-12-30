@@ -11,7 +11,7 @@ redirect_from:
 
 
 Research Work
-===
+=
 
 My research work on Electric Machines is focusing on:
 - **High-Speed application**:  
