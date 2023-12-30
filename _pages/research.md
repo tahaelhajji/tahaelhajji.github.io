@@ -20,7 +20,6 @@ Test 0
 <img src='/images/homepage_electric_machines.png' style="float:none;width:300px;">
 Some Text
 - Test
-<br/>![Illustration of electric machines](/images/homepage_electric_machines.png){ width="300px"} <br/>
 
 - High-Frequency losses in windings:<br/>
 Test
