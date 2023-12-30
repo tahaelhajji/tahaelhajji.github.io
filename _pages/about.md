@@ -18,7 +18,7 @@ I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a hre
 
 You can also get more information about my <a href="research.md">research</a>, my <a href="publications.md">publications</a>, my <a href="posts.md">network posts</a>, and my Resume.
 
-You would like to collaborate or get more information? Welcome 😊, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.  
+You would like to collaborate or get more information about my work? Welcome 😊, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.  
 Let's also connect on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Linkedin</a>.
 
 
