@@ -18,7 +18,8 @@ My research work on Electric Machines is focusing on:
 - High-Speed application:  
 Test 1  
 <img src='/images/homepage_electric_machines.png' style="float:none;width:300px;">
-<br/> Some Text  
+<br/> Some Text
+
 - Test
 
 - High-Frequency losses in windings:<br/>
