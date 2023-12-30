@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<center><b>About me</b></center>  
 
 Hi,  
 
