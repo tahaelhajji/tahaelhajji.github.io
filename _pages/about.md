@@ -16,9 +16,9 @@ I am currently **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" 
 
 I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, a member of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>.  
 
-You can also get more information about my <a href="research">research</a>, my <a href="publications">publications</a>, my <a href="posts">network posts</a>, and my <a href="/files/Resume.pdf">Resume</a>.
+You can also get more information about my <a href="research">research</a>, my <a href="https://scholar.google.com/citations?user=n2NVwNAAAAAJ&hl=fr&oi=ao" target="_blank">publications</a>, my <a href="network-posts-archive">network posts</a>, and my <a href="/files/Resume.pdf">Resume</a>.
 
-You would like to collaborate or get more information about my work? Welcome 😊, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.  
+Would like to collaborate or get more information about my work? Welcome 😊, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.  
 Let's also connect on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Linkedin</a>.
 
 
