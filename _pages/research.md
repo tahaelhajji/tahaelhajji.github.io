@@ -31,13 +31,12 @@ Some Text
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br>
-<br>
-<br>
+
 - **Design of Electric Machines**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
+<br/><br/>
 <br/><br/>
 - **Optimization of Electric Machines**:   
 Paragraph Text  
@@ -48,8 +47,10 @@ Some Text
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text   
-
+<br/><br/>
+<br/><br/>
 ---
+<hr style="border:2px solid gray">
 *References:*  
 [1]  
 [2]  
