@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi There,  
+Hi,  
 
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="400px"}
 I'm **Taha El Hajji**, an **Electric Machine Designer**.  
