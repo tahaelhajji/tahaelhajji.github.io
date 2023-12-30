@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<center><b>About me</b></center>  
+
 Hi,  
 
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="400px"}
