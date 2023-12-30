@@ -20,7 +20,7 @@ Test
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-left width="300px"}
 
 - <p>High-Frequency losses in windings:</p>
-
+Test
 - Optimization of Electric Machines:
-
+Test
 - 
