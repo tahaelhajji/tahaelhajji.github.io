@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there,"
+title: "Hi,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="300px"}
-I'm Taha El Hajji, an Electric Machine Designer.  
+I'm **Taha El Hajji**, an **Electric Machine Designer**.  
 
 I am currently **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working on high speed electric machines for transport electrification.  
 
@@ -18,7 +18,7 @@ I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a hre
 
 You can also get more information about my research, my publications, my network posts, and my Resume.
 
-You would like to collaborate? Welcome :blush:, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.
-Feel free to connect on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Linkedin</a>.
+You would like to collaborate or get more information? Welcome :blush:, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.  
+Let's also connect on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Linkedin</a>.
 
 
