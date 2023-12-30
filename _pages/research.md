@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Research Interests:
-======
+<center><b>Research Work</b></center>  
 
 
 My research work on Electric Machines is focusing on:
