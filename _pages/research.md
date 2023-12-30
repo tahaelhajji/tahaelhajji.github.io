@@ -13,6 +13,7 @@ redirect_from:
 Research Interests:
 ======
 
+# <div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
 
 My research work on Electric Machines is focusing on:
 - High-Speed application:  
@@ -21,7 +22,6 @@ Test 3
 <br/> Some Text
 
 - Test  
-<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
 - High-Frequency losses in windings:<br/>
 Test
 - Optimization of Electric Machines:
