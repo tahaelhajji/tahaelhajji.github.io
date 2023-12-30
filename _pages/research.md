@@ -19,6 +19,7 @@ Paragraph Text
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
+<br>
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
@@ -26,30 +27,30 @@ Paragraph Text
 Some Text
 <br>
 
-<br/>
 - **Experimental Work**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
+<br>
 
 - **Design of Electric Machines**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br/><br/>
-<br/><br/>
+<br>
+
 - **Optimization of Electric Machines**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
+<br>
 
 - **Transport Electrification**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text   
 <br/><br/>
-<br/><br/>
----
+
 <hr style="border:2px solid gray">
 *References:*  
 [1]  
