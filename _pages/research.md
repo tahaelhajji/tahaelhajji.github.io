@@ -13,10 +13,8 @@ redirect_from:
 Research Interests:
 ======
 
-<!---
-This is a comment: This code line is similar to make a photo not aligned with text
-<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
->
+
+{% This is a comment: This code line is similar to make a photo not aligned with text <div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div> %}
 
 My research work on Electric Machines is focusing on:
 - High-Speed application:  
