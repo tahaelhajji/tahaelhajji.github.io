@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="300px"}
+![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="400px"}
 I'm **Taha El Hajji**, an **Electric Machine Designer**.  
 
 I am currently **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working on high speed electric machines for transport electrification.  
