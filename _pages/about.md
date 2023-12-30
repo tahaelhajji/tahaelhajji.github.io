@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Taha"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,13 @@ redirect_from:
 
 
 ![Illustration of electric machines](/images/homepage_electric_machines_1.png){: .align-right width="300px"}
-I'm a postdoctoral researcher at A. University.
+I'm Taha. This is my official website.
 
-I'm currently working on the design and optimization of high speed electric machines for transport electrification.
+I graduated with a PhD in Electrical Engineering at [École Normale Supérieure] (https://ens-paris-saclay.fr/en), faculty of [Paris-Saclay University] (https://www.universite-paris-saclay.fr/en).
 
-Open for meaningful collaboration: <a href="mailto:taha.elhajji@gmail.com">Contact me</a>.
+I am currently working on the design and optimization of high speed electric machines for transport electrification.
+
+Open for meaningful collaboration around the globe.
+
+For any purposes, please reach out to me: <a href="mailto:taha.elhajji@gmail.com">Contact me</a>.
 
