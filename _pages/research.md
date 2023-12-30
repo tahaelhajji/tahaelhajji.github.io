@@ -13,7 +13,6 @@ redirect_from:
 Research Interests:
 ======
 
-## <div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
 
 My research work on Electric Machines is focusing on:
 - High-Speed application:  
@@ -26,3 +25,4 @@ Test
 - Optimization of Electric Machines:
 Test
 - 
+##<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
