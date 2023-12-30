@@ -10,7 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-Posts on Social Networks
+<center>
+  Posts on Social Networks
+  ===
+</center>
+
+
+<center>Posts on Social Networks</center>
 ===
 
 
