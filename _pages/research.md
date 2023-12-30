@@ -13,7 +13,7 @@ redirect_from:
 Research Interests:
 ======
 
-Test 0
+
 My research work on Electric Machines is focusing on:
 - **High-Speed application**:  
 Paragraph Text  
@@ -21,7 +21,7 @@ Paragraph Text
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-- **High-Frequency losses in windings**:<br/>
+- **High-Frequency losses in windings**:  
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
@@ -30,12 +30,12 @@ Some Text
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-- **Optimization of Electric Machines**:
+- **Optimization of Electric Machines**:  
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-- **Transport Electrification**:
+- **Transport Electrification**: 
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
