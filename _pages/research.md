@@ -16,12 +16,12 @@ Research Interests:
 
 My research work on Electric Machines is focusing on:
 - High-Speed application:  
-Test 2  
+Test 3  
 <img src='/images/homepage_electric_machines.png' style="float:none;width:300px;">  
 <br/> Some Text
 
-- Test
-
+- Test  
+<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
 - High-Frequency losses in windings:<br/>
 Test
 - Optimization of Electric Machines:
