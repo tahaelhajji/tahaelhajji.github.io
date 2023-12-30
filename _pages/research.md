@@ -16,7 +16,7 @@ Research Interests:
 
 My research work on Electric Machines is focusing on:
 - **High-Speed application**:  
-Paragraph Text
+Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
