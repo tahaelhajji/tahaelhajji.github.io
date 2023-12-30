@@ -10,7 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Network Posts:
-======
-
+<p style="text-align: center;">Posts</p>
 Test
