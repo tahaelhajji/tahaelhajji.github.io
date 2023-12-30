@@ -24,7 +24,9 @@ Some Text
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
+<br>
 
+<br/>
 - **Experimental Work**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
