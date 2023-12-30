@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Hi there,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,15 @@ redirect_from:
 
 
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="300px"}
-I'm Taha.  
-This is my official website.  
+I'm Taha El Hajji, an Electric Machine Designer.  
 
-I graduated with a PhD in Electrical Engineering in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, a member of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>.
+I am currently **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working on high speed electric machines for transport electrification.  
 
-I am currently Postdoctoral Researcher at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a>, working on high speed electric machines for transport electrification.
+I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, a member of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>.  
 
-Open for meaningful collaboration around the globe.
+You can also get more information about my research, my publications, my network posts, and my Resume.
 
-For specific purposes, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.
+You would like to collaborate? Welcome :blush:, you can <a href="mailto:taha.elhajji@gmail.com">contact me</a>.
+Feel free to connect on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Linkedin</a>.
+
 
