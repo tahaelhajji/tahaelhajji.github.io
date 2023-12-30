@@ -24,5 +24,5 @@ Test 3
 Test
 - Optimization of Electric Machines:
 Test
-- 
-##<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
+
+#<div><img src='/images/homepage_electric_machines.png' style="float:none;width:300px;"></div>
