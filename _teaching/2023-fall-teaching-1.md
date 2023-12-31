@@ -10,7 +10,7 @@ location: "Espoo, Finland"
 
 4 h, Laboratory works on three phase tranformer
 
-[Link to the course](https://mycourses.aalto.fi/course/view.php?id=37179)
+[Link to the course](https://mycourses.aalto.fi/course/view.php?id=39476)
 
 Content
 ======
