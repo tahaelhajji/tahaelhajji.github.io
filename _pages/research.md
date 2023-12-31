@@ -22,7 +22,8 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-___
+
+---
 
 - **High-Speed Machines**:  
 Paragraph Text  
