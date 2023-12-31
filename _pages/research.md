@@ -93,7 +93,7 @@ Paragraph Text
 </div>  
 <br/><br/>
 
-<hr style="border:2px solid black">
+<hr style="border:2px solid gray">
 *References:*  
 [1]  
 [2]  
