@@ -34,7 +34,8 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
----
+
+___
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
@@ -44,6 +45,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+
 ___
 
 - **Experimental Work**:   
@@ -54,6 +56,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+
 ___
 
 - **Optimization of Electric Machines**:   
@@ -64,6 +67,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+
 ___
 
 - **Electric Vehicles Propulsion**:   
@@ -74,6 +78,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+
 ___
 
 - **Electric Aircraft Propulsion**:   
