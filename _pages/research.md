@@ -22,8 +22,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text
-
 
 - **High-Speed application**:  
 Paragraph Text  
@@ -34,7 +32,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
@@ -44,7 +41,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text  
 
 - **Experimental Work**:   
 Paragraph Text  
@@ -54,8 +50,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text
-
 
 - **Optimization of Electric Machines**:   
 Paragraph Text  
@@ -65,8 +59,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text
-
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
@@ -76,8 +68,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text
-
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
@@ -87,7 +77,6 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-Some Text   
 <br/><br/>
 
 <hr style="border:2px solid gray">
