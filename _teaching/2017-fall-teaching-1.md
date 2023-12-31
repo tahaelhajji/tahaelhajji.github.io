@@ -2,22 +2,21 @@
 title: "Electrotechnics - Laboratory works"
 collection: teaching
 type: "Laboratory works"
-permalink: /teaching/2022-spring-teaching-1
-venue: "Cnam, Department of Electrical Engineering and Automation"
-date: 2021-03-01
+permalink: /teaching/2017-fall-teaching-1
+venue: "Université Paris Cité, Department of Mathematics"
+date: 2017-10-01
 location: "Paris, France"
 ---
 
-35 h, Laboratory works on electric machines, transformers, and converters
+40 h, Mathematics Tutoring for Undergraduate Students
 
-[Link to the training program](https://ecole-ingenieur.cnam.fr/alternance/apprentissage/diplome-d-ingenieur-specialite-genie-electrique-en-partenariat-avec-l-itii-ile-de-france-parcours-installation-distribution-energie-eclairage-1183576.kjsp?RH=1434379054526)
+[Link to the training program](https://math-info.u-paris.fr/licence-de-mathematiques/)
 
 
 Content
 ======
-The purpose of this laboratory work is the application of theoretical knowledge with experimental validation. This lab work consists of experiments on electric machine, transformers, and converters.
+The purpose of this tutoring is to provide undergradute students throughout the academic year a deep understanding of theoretical notions taught in lectures and their applications to solve difficult mathematical problems.
 
 WorkLoad
 ======
-Lab: 35 h \
-Reports: 4 h
+40 h (throughout the academic year)
