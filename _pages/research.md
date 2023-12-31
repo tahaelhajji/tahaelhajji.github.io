@@ -14,7 +14,7 @@ Research Work
 =
 
 My research work on Electric Machines is focusing on:
-- **Design of Electric Machines**:   
+* **Design of Electric Machines**:   
 Paragraph Text  
 <div><img src="/images/homepage_electric_machines.png"
        alt="Picture"
@@ -27,7 +27,7 @@ ___
 
 ---
 
-- **High-Speed Machines**:  
++ **High-Speed Machines**:  
 Paragraph Text  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
 <div><img src="/images/homepage_electric_machines.png"
