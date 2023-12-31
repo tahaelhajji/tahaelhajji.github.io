@@ -20,36 +20,34 @@ Paragraph Text
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
 
-
 - **High-Frequency losses in windings**:  
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
-Some Text
-<br>
+Some Text  
 
 - **Experimental Work**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br>
+
 
 - **Design of Electric Machines**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br>
+
 
 - **Optimization of Electric Machines**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br>
+
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text
-<br>
+
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
