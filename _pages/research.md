@@ -81,7 +81,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-<hr style="border:1px solid gray">
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
