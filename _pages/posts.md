@@ -14,7 +14,7 @@ Posts on Social Network
 =
 
 <hr style="border:1px solid gray">  
-<center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_highspeed-highpowerdensity-electricmachine-activity-7041172937176985601-PS2k?utm_source=share&utm_medium=member_desktop" target="_blank">How to include High-Frequency Losses in windings in the design of Electric Machines?</a></b></center>  
+<center><b>How to include High-Frequency Losses in windings in the design of Electric Machines?</b></center>  
 
 
 <center>Upcoming Post</center>  
