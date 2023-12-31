@@ -21,3 +21,4 @@ Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electr
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 
 
+
