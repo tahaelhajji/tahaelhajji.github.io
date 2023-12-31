@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-Welcome to my network:
-======
+You are a researcher, a company, or a student and would like to get in touch, you can reach out to me:
+- Email: taha.elhajji (at) gmail.com
+- Linkedin: [Link to my profile] (https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
+You can also follow my research updates and posts on social network:
+- Google Scholar: [Link to my profile] (https://www.researchgate.net/profile/Taha-El-Hajji)
+- ResearchGate: [Link to my profile] (https://www.researchgate.net/profile/Taha-El-Hajji)
+- Linkedin: [Link to my profile] (https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
 
+<!---
 <a href="mailto:taha.elhajji@gmail.com">
  <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/37ca1611-faec-4a0e-a97f-adb993a6a8b1" hspace="20" style="width:80px;height:60px;"/> 
 </a>
@@ -23,6 +29,7 @@ Welcome to my network:
 <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/">
  <img src="https://github.com/tahaelhajji/tahaelhajji.github.io/assets/38730694/5c05a2a1-b282-49f6-aea3-3974d9759b77" hspace="20" style="width:60px;height:60px;"/>
 </a>
+--->
 
 
 
