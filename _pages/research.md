@@ -70,7 +70,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-___
+<hr style="border:0.5px solid gray">
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
