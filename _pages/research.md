@@ -34,7 +34,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
-___
+---
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
