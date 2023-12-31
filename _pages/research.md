@@ -23,9 +23,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-___
-
----
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 + **High-Speed Machines**:  
 Paragraph Text  
@@ -37,7 +35,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-___
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
@@ -48,7 +46,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-___
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Experimental Work**:   
 Paragraph Text  
@@ -59,7 +57,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-___
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Optimization of Electric Machines**:   
 Paragraph Text  
@@ -70,7 +68,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-<hr style="border:0.5px solid gray">
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
@@ -81,7 +79,7 @@ Paragraph Text
        style="display: block; margin: 0 auto">
 </div>  
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
