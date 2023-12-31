@@ -24,7 +24,10 @@ The use of new technologies (high fill factor, high current density, and thin la
 Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_highspeed-highpowerdensity-electricmachine-activity-7041172937176985601-PS2k?utm_source=share&utm_medium=member_desktop" target="_blank">Link to post.</a>  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 
-<div><img src='/images/homepage_electric_machines.png' style="float:center; width:300px;"></div>
+<div><img src="/images/homepage_electric_machines.png"
+       align="center"
+       width="300px">
+</div>
 
 
 
