@@ -1,5 +1,5 @@
 ---
-title: "Electrotechnics - Laboratory works"
+title: "Electrotechnics - Laboratory works 1"
 collection: teaching
 type: "Laboratory works"
 permalink: /teaching/2021-spring-teaching-1
