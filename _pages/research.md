@@ -16,42 +16,77 @@ Research Work
 My research work on Electric Machines is focusing on:
 - **Design of Electric Machines**:   
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text
 
 
 - **High-Speed application**:  
 Paragraph Text  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text  
 
 - **Experimental Work**:   
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text
 
 
 - **Optimization of Electric Machines**:   
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text
 
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text
 
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
-<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 Some Text   
 <br/><br/>
 
