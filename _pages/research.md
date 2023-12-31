@@ -25,6 +25,8 @@ Paragraph Text
 
 ___
 
+---
+
 - **High-Speed Machines**:  
 Paragraph Text  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
