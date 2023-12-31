@@ -1,7 +1,7 @@
 ---
-title: "Electrotechnics - Laboratory works"
+title: "Mathematics - Tutoring"
 collection: teaching
-type: "Laboratory works"
+type: "Tutoring"
 permalink: /teaching/2017-fall-teaching-1
 venue: "Université Paris Cité, Department of Mathematics"
 date: 2017-10-01
