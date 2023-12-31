@@ -1,5 +1,5 @@
 ---
-title: "Electromechanics - Laboratory works"
+title: "Electromechanics - Laboratory works 2"
 collection: teaching
 type: "Laboratory works"
 permalink: /teaching/2023-fall-teaching-1
