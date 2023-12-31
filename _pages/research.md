@@ -45,7 +45,13 @@ Paragraph Text
 Some Text
 <br>
 
-- **Transport Electrification**:   
+- **Electric Vehicles Propulsion**:   
+Paragraph Text  
+<img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
+Some Text
+<br>
+
+- **Electric Aircraft Propulsion**:   
 Paragraph Text  
 <img src='/images/homepage_electric_machines.png' style="float:center; width:300px;">  
 Some Text   
