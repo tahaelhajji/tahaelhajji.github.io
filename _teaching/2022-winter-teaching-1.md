@@ -3,15 +3,15 @@ title: "Electromechanics - Laboratory works"
 collection: teaching
 type: "Laboratory works"
 permalink: /teaching/2022-winter-teaching-1
-venue: "A University, Department of Electrical Engineering and Automation"
+venue: "Aalto University, Department of Electrical Engineering and Automation"
 date: 2022-11-01
-location: "E, F"
+location: "Espoo, Finland"
 ---
 
 4 h, Laboratory works on induction machines
 
 
-[Link to the course](https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/)
+[Link to the course](https://mycourses.aalto.fi/course/view.php?id=37179)
 
 Content
 ======
@@ -22,6 +22,7 @@ investigate the operation of the machine in motoring mode.
 WorkLoad
 ======
 Lab: 4 h \
-Reports: 8 h
+Pre-Report: 4 h \
+Final Report: 4h
 
 
