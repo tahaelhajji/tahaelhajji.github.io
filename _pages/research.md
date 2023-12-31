@@ -22,8 +22,9 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
-- **High-Speed application**:  
+- **High-Speed Machines**:  
 Paragraph Text  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
 <div><img src="/images/homepage_electric_machines.png"
@@ -32,6 +33,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
 - **High-Frequency losses in windings**:  
 Paragraph Text  
@@ -41,6 +43,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
 - **Experimental Work**:   
 Paragraph Text  
@@ -50,6 +53,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
 - **Optimization of Electric Machines**:   
 Paragraph Text  
@@ -59,6 +63,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
 - **Electric Vehicles Propulsion**:   
 Paragraph Text  
@@ -68,6 +73,7 @@ Paragraph Text
        width="300px"
        style="display: block; margin: 0 auto">
 </div>  
+___
 
 - **Electric Aircraft Propulsion**:   
 Paragraph Text  
