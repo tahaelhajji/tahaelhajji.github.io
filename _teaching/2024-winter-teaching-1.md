@@ -1,5 +1,5 @@
 ---
-title: "Numerical Methods in Electromechanics"
+title: "Numerical Methods in Electromechanics 2"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024-winter-teaching-1
