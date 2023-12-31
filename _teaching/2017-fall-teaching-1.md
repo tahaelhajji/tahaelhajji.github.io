@@ -10,7 +10,7 @@ location: "Paris, France"
 
 40 h, Mathematics Tutoring for Undergraduate Students
 
-[Link to the training program](https://math-info.u-paris.fr/licence-de-mathematiques/)
+[Link to the training program](https://math-info.u-paris.fr/en/bachelor-in-mathematics/)
 
 
 Content
