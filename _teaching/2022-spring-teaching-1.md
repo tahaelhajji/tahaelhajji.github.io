@@ -5,7 +5,7 @@ type: "Laboratory works"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Cnam, Department of Electrical Engineering and Automation"
 date: 2022-03-01
-location: "E, F"
+location: "Paris, France"
 ---
 
 35 h, Laboratory works on electric machines, transformers, and converters
