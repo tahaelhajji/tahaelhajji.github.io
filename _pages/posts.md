@@ -20,7 +20,12 @@ Posts on Social Network
 <center>Upcoming Post</center>  
 
 <center><i>Stay Tuned on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">LinkedIn.</a></i></center>  
-
+<div><img src="/images/homepage_electric_machines.png"
+       alt="Picture"
+       align="center"
+       width="300px"
+       style="display: block; margin: 0 auto">
+</div>  
 <hr style="border:1px solid gray">  
 
 
