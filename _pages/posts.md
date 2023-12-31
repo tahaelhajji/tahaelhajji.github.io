@@ -13,8 +13,11 @@ redirect_from:
 Posts on Social Network
 =
 
+<hr style="border:1px gray">  
 
----
+<hr style="border:2px solid gray">  
+
+---  
 ***
 <center><b>Are High-Speed Electric Machines always useful for high power density in Electric Vehicles?</b></center>  
 The use of new technologies (high fill factor, high current density, and thin laminations) with speed lower than 20,000rpm is a better alternative for high power density regarding the traditional automotive bearing limitations. Research work need to be focused on cooling techniques to evacuate high losses due to increased current density and fill factor.  
