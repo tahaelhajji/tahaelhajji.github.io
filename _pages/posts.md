@@ -27,7 +27,7 @@ Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electr
 <div><img src="/images/Post_2_Linkedin_Figure.jpg"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 <hr style="border:1px solid gray">  
@@ -40,7 +40,7 @@ Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electr
 <div><img src="/images/Post_1_Linkedin_Figure.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
