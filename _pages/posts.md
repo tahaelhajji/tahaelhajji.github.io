@@ -14,12 +14,16 @@ Posts on Social Network
 =
 
 <hr style="border:1px solid gray">  
-<center><b>How to include High-Frequency Losses in windings in the design of Electric Machines?</b></center>  
+<center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">How to include High-Frequency Losses in windings in the design of Electric Machines?</a></b></center>  
 
 
-<center>Upcoming Post</center>  
+For high frequency each effect, <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">prior comparisons</a> reveal the optimal model offering a good trade-off between computation time and accuracy:
+- Skin Effect: Analytical Models are fast and provide accurate results.
+- Proximity Effect: Analytical Models can be used when considering Armature Reaction only. For On Load condition, Hybrid Models are indispensable to account for various sources of magnetic field in cases of random geometry and frequency.
+- Circulating Currents: Finite Element coupled with a Circuit Model is unavoidable in cases of random geometry and frequency.  
+<br>
+Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">Link to LinkedIn post.</a>  
 
-<center><i>Stay Tuned on <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">LinkedIn.</a></i></center>  
 <div><img src="/images/homepage_electric_machines.png"
        alt="Picture"
        align="center"
