@@ -19,7 +19,7 @@ Paragraph Text
 <div><img src="/images/Design_Electric_Machine.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -31,7 +31,7 @@ Paragraph Text
 <div><img src="/images/HighSpeed.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -42,7 +42,7 @@ Paragraph Text
 <div><img src="/images/AC_Losses.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -53,7 +53,7 @@ Paragraph Text
 <div><img src="/images/homepage_electric_machines.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -64,7 +64,7 @@ Paragraph Text
 <div><img src="/images/Optimization_Machines_Flowchart_10_0.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -75,7 +75,7 @@ Paragraph Text
 <div><img src="/images/Electric_Vehicle_Propulsion.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -86,7 +86,7 @@ Paragraph Text
 <div><img src="/images/Electric_Aircraft_Propulsion.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="600px"
        style="display: block; margin: 0 auto">
 </div>  
 <br/><br/>
