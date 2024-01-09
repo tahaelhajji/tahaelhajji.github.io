@@ -26,7 +26,7 @@ The initial phase of the design process involves selecting the machine topology 
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 + **High-Speed Machines**:  
-Paragraph Text  
+High-speed machines are advantageous in various applications regarding their compactness. Problematics at high-speed need to be addressed and studied: mechanical integrity of the rotor, high-frequency phenomena in the different parts of the machine, ... In my research, I focused on high-frequency phenomena in windings, stator and rotor core. I deeply studied high frequency electromagnetic phenomena in windigns (cf. research interest below). Besides, I also studied both the mechanical and thermal aspects. There exist different alternatives to high-speeed to obtain high power density such as increasing current density and fill factor in slots, which requires agressive cooling.  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
 <div><img src="/images/HighSpeed.png"
        alt="Picture"
