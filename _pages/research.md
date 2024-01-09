@@ -15,7 +15,7 @@ Research Work
 
 My research work on Electric Machines is focusing on:
 * **Design of Electric Machines**:   
-The first step in the design process is to choose the machine topology depending on the application. The machine is usually designed geometrically, sometimes using complex mathematical equations. This guarantees feasible geometries of machines, which is indispensable during the optimization process. The different performances of the machine can be evaluated based on analytical or finite element models. I usually use Ansys, Comsol, and Femm softwares to evaluate electromagnetic, mechanical, and thermal performances. I studied different types of machines: V-shaped PMSM, Inserted PMSM, Surface PMSM, ...  
+The initial phase of the design process involves selecting the machine topology tailored to the specific application requirements. Typically, the machine is geometrically designed, often employing intricate mathematical equations to ensure the creation of viable machine geometries—a crucial aspect throughout the optimization phase. Assessment of the machine's diverse performances can be conducted through analytical or finite element models. In my practice, I rely on software tools such as Ansys, Comsol, and Femm to evaluate electromagnetic, mechanical, and thermal performances. My studies have encompassed various machine types, including V-shaped PMSM, Inserted PMSM, Surface PMSM, and others.  
 <div><img src="/images/Design_Electric_Machine.png"
        alt="Picture"
        align="center"
