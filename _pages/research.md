@@ -50,7 +50,7 @@ Paragraph Text
 
 - **Experimental Work**:   
 Paragraph Text  
-<div><img src="/images/homepage_electric_machines.png"
+<div><img src="/images/Experimental_AC_Losses.png"
        alt="Picture"
        align="center"
        width="600px"
