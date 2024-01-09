@@ -60,7 +60,7 @@ Paragraph Text
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Optimization of Electric Machines**:   
-Paragraph Text  
+Optimizing machines according to specified criteria holds significant implications across diverse industries, including automotive and aeronautics. Through the optimization of geometry, materials, and winding configurations, machines can align with specifications and requirements by employing a multi-physics model encompassing electromagnetic, mechanical, and thermal aspects. Multi-objective optimization is commonly employed to derive a Pareto Front, striking a balance between conflicting performances such as efficiency and power density. While large-scale optimization using finite element models can be time-consuming, the computational power at Aalto University facilitates expedited exploration of extensive solution spaces. Research focused on optimization contributes to the development of machines that emerge as competitive and sustainable alternatives for environmentally friendly transportation.  
 <div><img src="/images/Optimization_Machines_Flowchart_10_0.png"
        alt="Picture"
        align="center"
