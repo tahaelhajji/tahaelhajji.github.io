@@ -60,7 +60,7 @@ Optimizing machines according to specified criteria holds significant implicatio
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Electric Vehicles Propulsion**:   
-Paragraph Text  
+The design of electric vehicles propulsion include all the components of the electric powertrain. In my research work, I mainly focus on the design of electric machine and the gearbox. I worked on the design of machines for city electric vehicles in collaboration with automotive companies. Based on automotive specifications, different machines are designed and compared to achieve best trade-off between efficiency and power density. The gearbox used is a multi-stage external, cylindrical, and helicoidal gear. The gear is geometrically designed considering profile shifting. To obtain overall optimum performances, I consider both the electric machine and the gearbox.  
 <div><img src="/images/Electric_Vehicle_Propulsion.png"
        alt="Picture"
        align="center"
