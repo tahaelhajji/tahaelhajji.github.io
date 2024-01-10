@@ -48,17 +48,6 @@ Losses in windings are usually assumed to be equal to Joule losses during the de
 
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
-- **Experimental Work**:   
-Amongst my experimental works, I focused on experimental measurment of high frequency losses in windings. A new methodology is developed to measure proximity effect losses in windings and applied to the case of a winded slot. Although additional losses due to proximity effect are relatively small, obtained results show the variation of total losses in windings with respect to frequency and current. The methodology consists of twisting two conductors with each other: the first one (principal conductor) is the conductor in which losses are measured and the second one represents is an auxiliary conductor used for the methodology calculation.   
-<div><img src="/images/Experimental_AC_Losses.png"
-       alt="Picture"
-       align="center"
-       width="600px"
-       style="display: block; margin: 0 auto">
-</div>  
-
-<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
-
 - **Optimization of Electric Machines**:   
 Optimizing machines according to specified criteria holds significant implications across diverse industries, including automotive and aeronautics. Through the optimization of geometry, materials, and winding configurations, machines can align with specifications and requirements by employing a multi-physics model encompassing electromagnetic, mechanical, and thermal aspects. In my research, I focus on multi-objective optimization, which allows considering many objectives and constraints (<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">read more</a>). Optimization results are represented in a Pareto Front, striking a balance between conflicting performances such as efficiency and power density. I perform large-scale optimization using CPUs on the server, in which millions of machines can be simulated. I use various optimization tools (Genetic Algorithm, Particle Swarm, ...).  
 <div><img src="/images/Optimization_Machines_Flowchart_10_0.png"
@@ -89,6 +78,18 @@ Paragraph Text
        width="600px"
        style="display: block; margin: 0 auto">
 </div>  
+
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
+
+- **Experimental Work**:   
+Amongst my experimental works, I focused on experimental measurment of high frequency losses in windings. A new methodology is developed to measure proximity effect losses in windings and applied to the case of a winded slot. Although additional losses due to proximity effect are relatively small, obtained results show the variation of total losses in windings with respect to frequency and current. The methodology consists of twisting two conductors with each other: the first one (principal conductor) is the conductor in which losses are measured and the second one represents is an auxiliary conductor used for the methodology calculation.   
+<div><img src="/images/Experimental_AC_Losses.png"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
+
 <br/><br/>
 
 <hr style="border:2px solid gray">
