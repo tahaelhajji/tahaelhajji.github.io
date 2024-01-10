@@ -49,7 +49,7 @@ Losses in windings are usually assumed to be equal to Joule losses during the de
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Experimental Work**:   
-Amongst my experimental works, I focused on experimental measurment of high frequency losses in windings. A new methodology is developed to measure proximity effect losses in windings and applied to a winded slot. Although additional losses due to proximity effect are relatively small, obtained results show the variation of total losses in windings with respect to frequency and current. The methodology consists of twisting two conductors with each other: the first one (principal conductor) is the conductor in which losses are measured and the second one represents is an auxiliary conductor used for the methodology calculation.   
+Amongst my experimental works, I focused on experimental measurment of high frequency losses in windings. A new methodology is developed to measure proximity effect losses in windings and applied to the case of a winded slot. Although additional losses due to proximity effect are relatively small, obtained results show the variation of total losses in windings with respect to frequency and current. The methodology consists of twisting two conductors with each other: the first one (principal conductor) is the conductor in which losses are measured and the second one represents is an auxiliary conductor used for the methodology calculation.   
 <div><img src="/images/Experimental_AC_Losses.png"
        alt="Picture"
        align="center"
