@@ -3,7 +3,7 @@ title: "Electrotechnics - Laboratory works 1"
 collection: teaching
 type: "Laboratory works"
 permalink: /teaching/2021-spring-teaching-1
-venue: "Cnam, Department of Electrical Engineering and Automation"
+venue: "Department of Electrical Engineering and Automation, Cnam, Paris, France"
 date: 2021-03-01
 location: "Paris, France"
 ---
