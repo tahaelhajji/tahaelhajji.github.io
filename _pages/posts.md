@@ -17,7 +17,7 @@ Posts on Social Networks
 <center><b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">Proximity Effect in Conductors: Models' Family Tree</a></b></center>  
 
 
-Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses'. The family tree of the models is represented in the figure below. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes. You can choose the suitable model for your application.  
+Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses'. The family tree of the main models in the literature is represented in the figure below. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes. You can choose the suitable model for your application.  
 <br>
 Read More: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post.</a>  
 
