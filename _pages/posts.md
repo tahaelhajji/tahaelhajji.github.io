@@ -13,6 +13,20 @@ redirect_from:
 Posts on Social Network
 =
 
+<center><b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">Proximity Effect in Conductors: Which Losses Model to use?</a></b></center>  
+
+
+Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses'. Proximity Effect Losses can be mitigated through different solutions, mainly conductor's diameter and winding configurations. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes.
+<br>
+Read More: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post.</a>  
+
+<div><img src="/images/Post_3_Linkedin_Figure.jpg"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
+
 <hr style="border:1px solid gray">  
 <center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">How to include High-Frequency Losses in windings in the design of Electric Machines?</a></b></center>  
 
