@@ -3,7 +3,7 @@ title: "Mathematics - Tutoring"
 collection: teaching
 type: "Tutoring"
 permalink: /teaching/2017-fall-teaching-1
-venue: "Université Paris Cité, Department of Mathematics"
+venue: "Department of Mathematics, Université Paris Cité, Paris, France"
 date: 2017-10-01
 location: "Paris, France"
 ---
