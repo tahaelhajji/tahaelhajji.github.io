@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Posts on Social Network
+Posts on Social Networks
 =
 
 
