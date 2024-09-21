@@ -3,7 +3,7 @@ title: "Electromechanics - Laboratory works 1"
 collection: teaching
 type: "Laboratory works"
 permalink: /teaching/2022-fall-teaching-1
-venue: "Aalto University, Department of Electrical Engineering and Automation"
+venue: "Department of Electrical Engineering and Automation, Aalto University, Espoo, France"
 date: 2022-11-01
 location: "Espoo, Finland"
 ---
