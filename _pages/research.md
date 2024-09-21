@@ -71,7 +71,7 @@ The design of electric vehicles propulsion include all the components of the ele
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Electric Aircraft Propulsion**:  
-My current research work concern regional electric aircraft propulsion. I work on the design and optimization of Surface PMSM to achieve industrial specifications for regional aircrafts. A benchmark of different machines is performed targeting a high specific power. The gearbox's mass is also included to evaluate the overall performances. You can read <a href="https://yle.fi/a/3-12302109" target="_blank">here</a> about the utility of regional electric aircrafts in Nordic countries.  
+Amongst my research work, the design and optimization of electric motors for regional electric aircraft propulsion, focusing on the Surface PMSM to achieve industrial specifications for regional aircrafts. A benchmark of different machines is performed targeting a high specific power. The gearbox's mass is also included to evaluate the overall performances. You can read <a href="https://yle.fi/a/3-12302109" target="_blank">here</a> about the utility of regional electric aircrafts in Nordic countries.  
 <div><img src="/images/Electric_Aircraft_Propulsion.png"
        alt="Picture"
        align="center"
