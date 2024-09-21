@@ -19,7 +19,7 @@ Posts on Social Networks
 
 Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses', which can be evaluated using various models. The family tree of the main models in the literature is represented in the figure below. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes. Amongst these models, you can choose the suitable one based on your application.  
 <br>
-Read More: <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post.</a>  
+Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>  +  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post</a>.  
 
 <div><img src="/images/Post_3_Linkedin_Figure.jpg"
        alt="Picture"
