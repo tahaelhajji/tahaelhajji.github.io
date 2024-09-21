@@ -18,7 +18,7 @@ I am currently working as an **Electromagnetic Research Engineer** at <a href="h
 
 I previously served as **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> during two years, working on high speed electric machines for transport electrification.  
 
-I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, a member of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>.  
+I graduated with a **PhD** in *Electrical Engineering* in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, a faculty of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>.  
 
 You can get information about my <a href="research">research</a>, my <a href="https://scholar.google.com/citations?user=n2NVwNAAAAAJ&hl=fr&oi=ao" target="_blank">publications</a>, my <a href="teaching">teachings</a>, my <a href="network-posts-archive"> posts</a>, and my <a href="/files/Resume_Taha_EL-HAJJI.pdf">resume</a>.
 
