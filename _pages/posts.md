@@ -37,7 +37,7 @@ For high frequency each effect, <a href="https://ieeexplore.ieee.org/document/10
 - Proximity Effect: Analytical Models can be used when considering Armature Reaction only. For On Load condition, Hybrid Models are indispensable to account for various sources of magnetic field in cases of random geometry and frequency.
 - Circulating Currents: Finite Element coupled with a Circuit Model is unavoidable in cases of random geometry and frequency.  
 <br>
-Read More: <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post.</a>  
+Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>  +  <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post.</a>  
 
 <div><img src="/images/Post_2_Linkedin_Figure.jpg"
        alt="Picture"
