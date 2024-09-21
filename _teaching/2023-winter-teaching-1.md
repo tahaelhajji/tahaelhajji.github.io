@@ -3,7 +3,7 @@ title: "Numerical Methods in Electromechanics 1"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2023-winter-teaching-1
-venue: "Department of Electrical Engineering and Automation, Aalto University, Espoo, France"
+venue: "Department of Electrical Engineering and Automation, Aalto University, Espoo, Finland"
 date: 2023-01-10
 location: "Espoo, Finland"
 ---
