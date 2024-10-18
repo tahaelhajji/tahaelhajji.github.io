@@ -71,7 +71,7 @@ The design of electric vehicles propulsion include all the components of the ele
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 - **Electric Aircraft Propulsion**:  
-Amongst my research work, the design and optimization of electric motors for regional electric aircraft propulsion, focusing on the Surface PMSM to achieve industrial specifications for regional aircrafts. A benchmark of different machines is performed targeting a high specific power. The gearbox's mass is also included to evaluate the overall performances. You can read <a href="https://yle.fi/a/3-12302109" target="_blank">here</a> about the utility of regional electric aircrafts in Nordic countries.  
+Amongst my research work, the design and optimization of electric motors for regional electric aircraft propulsion, focusing on the Surface PMSM to achieve industrial specifications for regional aircrafts (<a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">read more</a>). A benchmark of different machines is performed targeting a high specific power. The gearbox's mass is also included to evaluate the overall performances. You can read <a href="https://yle.fi/a/3-12302109" target="_blank">here</a> about the utility of regional electric aircrafts in Nordic countries.  
 <div><img src="/images/Electric_Aircraft_Propulsion.png"
        alt="Picture"
        align="center"
@@ -94,6 +94,8 @@ Amongst my experimental works, I focused on experimental measurment of high freq
 
 <hr style="border:2px solid gray">
 *References:*  
+- El Hajji, T.; Hemeida, A.; Lehikoinen, A.; Martin, F.; Belahcen, A. Optimal Design of High Specific Power Electric Machines for Fully Electric Regional Aircraft: A Case Study of 1MW S-PMSM. Aerospace 2024, 11, 820, doi: <a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">10.3390/aerospace11100820</a>  
+- T. El Hajji, A. Lehikoinen, A. Hemeida and A. Belahcen, "Optimal Design of Cost-effective E-Machines for Traction: A Case Study of 150kW V-shaped PMSM," 2024 International Conference on Electrical Machines (ICEM), Torino, Italy, 2024, pp. 1-5, doi: <a href="https://ieeexplore.ieee.org/document/10700405" target="_blank">10.1109/ICEM60801.2024.10700405</a>  
 - T. El Hajji, "Modeling and optimization of high speed electric machines for electric vehicles", PhD Dissertation, Ecole Normale Superieure Paris-Saclay, Paris-Saclay University, March 2023, <a href="https://www.theses.fr/2023UPAST017" target="_blank">PhD Thesis</a> (accessible starting from 08-03-2028)  
 - T. E. Hajji et al., "AC Losses in Windings: Review and Comparison of Models With Application in Electric Machines," in IEEE Access, vol. 12, pp. 1552-1569, 2024, doi: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">10.1109/ACCESS.2023.3345014</a>  
 - El Hajji, T.; Hlioui, S.; Louf, F.; Gabsi, M.; Mermaz-Rollet, G.; Belhadi, M. Optimal Design of High-Speed Electric Machines for Electric Vehicles: A Case Study of 100 kW V-Shaped Interior PMSM. Machines 2023, 11, 57. doi: <a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">10.3390/machines11010057</a>  
