@@ -41,7 +41,7 @@ Results revealed that the total weight (motor + gearbox) reaches a plateau betwe
 
 Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses', which can be evaluated using various models. The family tree of the main models in the literature is represented in the figure below. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes. Amongst these models, you can choose the suitable one based on your application.  
 <br>
-👉 Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>  +  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post</a>.  
+👉 Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article 📜</a>  +  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post</a>.  
 
 <div><img src="/images/Post_3_Linkedin_Figure.jpg"
        alt="Picture"
@@ -55,11 +55,11 @@ Proximity effect in conductors are due to an external magnetic field that induce
 
 
 For high frequency each effect, <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">prior comparisons</a> reveal the optimal model offering a good trade-off between computation time and accuracy:
-- Skin Effect: Analytical Models are fast and provide accurate results.
-- Proximity Effect: Analytical Models can be used when considering Armature Reaction only. For On Load condition, Hybrid Models are indispensable to account for various sources of magnetic field in cases of random geometry and frequency.
-- Circulating Currents: Finite Element coupled with a Circuit Model is unavoidable in cases of random geometry and frequency.  
-<br>
-👉 Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>  +  <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post.</a>  
+🔲 Skin Effect: Analytical Models are fast and provide accurate results.  
+🔲 Proximity Effect: Analytical Models can be used when considering Armature Reaction only. For On Load condition, Hybrid Models are indispensable to account for various sources of magnetic field in cases of random geometry and frequency.  
+🔲 Circulating Currents: Finite Element coupled with a Circuit Model is unavoidable in cases of random geometry and frequency.  
+<br>  
+👉 Read More: <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article 📜 </a>  +  <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post.</a>  
 
 <div><img src="/images/Post_2_Linkedin_Figure.jpg"
        alt="Picture"
