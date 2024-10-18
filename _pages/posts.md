@@ -27,7 +27,7 @@ Results revealed that the total weight (motor + gearbox) reaches a plateau betwe
 <br>
 👉 Read More:  
 <a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">📜 Research Article</a>  
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">📝 LinkedIn post</a>.  
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">📝 LinkedIn post</a>  
 
 <div><img src="/images/Post_4_Linkedin_Figure.png"
        alt="Picture"
