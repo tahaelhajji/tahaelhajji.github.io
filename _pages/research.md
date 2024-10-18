@@ -94,7 +94,7 @@ Amongst my experimental works, I focused on experimental measurment of high freq
 
 <hr style="border:2px solid gray">
 *References:*  
-- Taha El Hajji; Antti Lehikoinen; Anouar Belahcen, "Circulating Currents in Windings: Fundamental Property", 2024. [Online]. Available: https://arxiv.org/abs/2410.12748  
+- T. El Hajji; A. Lehikoinen; A. Belahcen, "Circulating Currents in Windings: Fundamental Property", 2024. [Online]. Available: https://arxiv.org/abs/2410.12748  
 - El Hajji, T.; Hemeida, A.; Lehikoinen, A.; Martin, F.; Belahcen, A., "Optimal Design of High Specific Power Electric Machines for Fully Electric Regional Aircraft: A Case Study of 1MW S-PMSM". Aerospace 2024, 11, 820, doi: <a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">10.3390/aerospace11100820</a>  
 - T. El Hajji, A. Lehikoinen, A. Hemeida and A. Belahcen, "Optimal Design of Cost-effective E-Machines for Traction: A Case Study of 150kW V-shaped PMSM," 2024 International Conference on Electrical Machines (ICEM), Torino, Italy, 2024, pp. 1-5, doi: <a href="https://ieeexplore.ieee.org/document/10700405" target="_blank">10.1109/ICEM60801.2024.10700405</a>  
 - T. El Hajji, "Modeling and optimization of high speed electric machines for electric vehicles", PhD Dissertation, Ecole Normale Superieure Paris-Saclay, Paris-Saclay University, March 2023, <a href="https://www.theses.fr/2023UPAST017" target="_blank">PhD Thesis</a> (accessible starting from 08-03-2028)  
