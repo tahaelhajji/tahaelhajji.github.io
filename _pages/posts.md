@@ -23,8 +23,6 @@ Regional electric aircraft 🛩️ offer the potential to connect remote and har
 📈 We optimized these two options for regional fully electric aircraft specifications and compared the total weight, considering the gearbox.
 Results revealed that the total weight (motor + gearbox) reaches a plateau between 10,000 rpm and 15,000 rpm, offering no further improvement in specific power beyond this range. Therefore, increasing the motor’s speed is beneficial only up to 10,000–15,000 rpm.  
 <br>
- details on the optimization methodology, the motor model, the gearbox model, and the results.  
-<br>
 👉 Read More:  
 <a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">📜 Research Article</a>  
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">📝 LinkedIn post</a>  
