@@ -16,9 +16,9 @@ Posts on Social Networks
 <center><b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">Regional Fully Electric Aircraft 🛩️: Direct Drive or High-Speed Motor?</a></b></center>  
 
 
-🛩️ Regional electric aircraft offer the potential to connect remote and hard-to-reach areas, as seen in Finland’s project 🇫🇮 to link cities in challenging Nordic regions. A critical focus in electric aircraft propulsion is increasing specific power, with a target of 20 kW/kg 🎯, as defined by the HiECSs Centre of Excellence project. To achieve this, two primary options are being explored:
-🟧 Direct Drive: The motor is directly connected to the propeller, operating at the same speed (around 1,140 rpm).
-🟩 High-Speed Motors: Operating at higher speeds requires a gearbox to match the propeller's speed. While High-Speed Motors are more compact, the additional gearbox can add significant weight, which must be considered for a fair comparison.
+🛩️ Regional electric aircraft offer the potential to connect remote and hard-to-reach areas, as seen in Finland’s project 🇫🇮 to link cities in challenging Nordic regions. A critical focus in electric aircraft propulsion is increasing specific power, with a target of 20 kW/kg 🎯, as defined by the HiECSs Centre of Excellence project. To achieve this, two primary options are being explored:  
+🟧 Direct Drive: The motor is directly connected to the propeller, operating at the same speed (around 1,140 rpm).  
+🟩 High-Speed Motors: Operating at higher speeds requires a gearbox to match the propeller's speed. While High-Speed Motors are more compact, the additional gearbox can add significant weight, which must be considered for a fair comparison.  
 <br>
 📈 We optimized these two options for regional fully electric aircraft specifications and compared the total weight, considering the gearbox.
 Results revealed that the total weight (motor + gearbox) reaches a plateau between 10,000 rpm and 15,000 rpm, offering no further improvement in specific power beyond this range. Therefore, increasing the motor’s speed is beneficial only up to 10,000–15,000 rpm.  
