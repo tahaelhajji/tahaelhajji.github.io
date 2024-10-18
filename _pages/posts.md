@@ -18,7 +18,7 @@ Posts on Social Networks
 
 Regional electric aircraft 🛩️ offer the potential to connect remote and hard-to-reach areas, as seen in <a href="https://yle.fi/a/3-12302109" target="_blank">Finland’s project</a> to link cities in challenging Nordic regions. A critical focus in electric aircraft propulsion is increasing specific power, with a target of 20 kW/kg, as defined by the <a href="https://www.aalto.fi/en/hiecs" target="_blank">HiECSs Centre of Excellence</a> project. To achieve this, two primary options are being explored:  
 🟧 Direct Drive: The motor is directly connected to the propeller, operating at the same speed (around 1,140 rpm).  
-🟩 High-Speed Motors: Operating at higher speeds requires a gearbox to match the propeller's speed. While High-Speed Motors are more compact, the additional gearbox can add significant weight, which must be considered for a fair comparison.  
+🟩 High-Speed Motors: Operating at higher speeds requires a gearbox to match the propeller's speed.  
 <br>
 📈 We optimized these two options for regional fully electric aircraft specifications and compared the total weight, considering the gearbox.
 Results revealed that the total weight (motor + gearbox) reaches a plateau between 10,000 rpm and 15,000 rpm, offering no further improvement in specific power beyond this range. Therefore, increasing the motor’s speed is beneficial only up to 10,000–15,000 rpm.  
