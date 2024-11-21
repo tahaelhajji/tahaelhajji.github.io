@@ -13,6 +13,35 @@ redirect_from:
 Posts on Social Networks
 =
 
+<center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_circulatingcurrents-windings-electricalmachines-activity-7264301484920508416-Gv0Q?utm_source=share&utm_medium=member_desktop" target="_blank"> Do circulating current losses always lead to higher losses?</a></b></center>  
+
+
+◽ Definition: Circulating currents are unwanted currents that flow between the parallel-connected conductors of a winding even at no-load.
+
+◽ Causes: Circulating currents occur between parallel-connected conductors of an electric machine’s winding due to asymmetries and the different placements of the parallel strands inside the slot.
+
+▪️ Property: It is intuitive to claim that this effect will lead to higher losses compared to the DC case, which is also predicted by the numerical calculations and the experimental results.
+
+▪️ Mathematical Proof: Theoretically, this fundamental property of circulating currents is demonstrated mathematically in the general case using Cauchy Schwartz Inequality. The property and the proof were initially stated and presented in <a href="https://www.aalto.fi/en/hiecs" target="_blank">this article</a>, but are presented in a mathematical framework and context in <a href="https://www.aalto.fi/en/hiecs" target="_blank">this article</a>.
+
+
+
+👉 Read More:  
+<a href="https://arxiv.org/abs/2410.12748" target="_blank">📜 Mathematical Proof of the Property</a>  
+<a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">📜 Review Article on AC Losses</a>  
+<a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_circulatingcurrents-windings-electricalmachines-activity-7264301484920508416-Gv0Q?utm_source=share&utm_medium=member_desktop" target="_blank">📝 LinkedIn post</a>  
+
+<div><img src="/images/Post_5_Linkedin_Figure.png"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
+
+
+<hr style="border:1px solid gray">  
+
+
 <center><b><a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">Regional Fully Electric Aircraft 🛩️: Direct Drive or High-Speed Motor?</a></b></center>  
 
 
