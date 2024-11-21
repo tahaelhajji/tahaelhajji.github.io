@@ -22,7 +22,7 @@ Posts on Social Networks
 
 ▪️ Property: It is intuitive to claim that this effect will lead to higher losses compared to the DC case, which is also predicted by the numerical calculations and the experimental results.
 
-▪️ Mathematical Proof: Theoretically, this fundamental property of circulating currents is demonstrated mathematically in the general case using Cauchy Schwartz Inequality. The property and the proof were initially stated and presented in <a href="https://www.aalto.fi/en/hiecs" target="_blank">this article</a>, but are presented in a mathematical framework and context in <a href="https://www.aalto.fi/en/hiecs" target="_blank">this article</a>.
+▪️ Mathematical Proof: Theoretically, this fundamental property of circulating currents is demonstrated mathematically in the general case using Cauchy Schwartz Inequality. The property and the proof were initially stated and presented in <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">this article</a>, but are presented in a mathematical framework and context in <a href="https://arxiv.org/abs/2410.12748" target="_blank">this article</a>.
 
 
 
