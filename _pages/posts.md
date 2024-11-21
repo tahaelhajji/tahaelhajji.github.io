@@ -27,9 +27,9 @@ Posts on Social Networks
 
 
 👉 Read More:  
-<a href="https://arxiv.org/abs/2410.12748" target="_blank">📜 Mathematical Proof of the Property</a>  
-<a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">📜 Review Article on AC Losses</a>  
-<a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_circulatingcurrents-windings-electricalmachines-activity-7264301484920508416-Gv0Q?utm_source=share&utm_medium=member_desktop" target="_blank">📝 LinkedIn post</a>  
+📜 <a href="https://arxiv.org/abs/2410.12748" target="_blank">Mathematical Proof of the Property</a>  
+📜 <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article on AC Losses</a>  
+📝 <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_circulatingcurrents-windings-electricalmachines-activity-7264301484920508416-Gv0Q?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post</a>  
 
 <div><img src="/images/Post_5_Linkedin_Figure.png"
        alt="Picture"
@@ -53,8 +53,8 @@ Regional electric aircraft 🛩️ offer the potential to connect remote and har
 Results revealed that the total weight (motor + gearbox) reaches a plateau between 10,000 rpm and 15,000 rpm, offering no further improvement in specific power beyond this range. Therefore, increasing the motor’s speed is beneficial only up to 10,000–15,000 rpm.  
 <br>
 👉 Read More:  
-<a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">📜 Research Article</a>  
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">📝 LinkedIn post</a>  
+📜 <a href="https://www.mdpi.com/2226-4310/11/10/820" target="_blank">Research Article</a>  
+📝 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7252925709839384576/" target="_blank">LinkedIn post</a>  
 
 <div><img src="/images/Post_4_Linkedin_Figure.png"
        alt="Picture"
@@ -71,8 +71,8 @@ Results revealed that the total weight (motor + gearbox) reaches a plateau betwe
 Proximity effect in conductors are due to an external magnetic field that induces eddy currents. These eddy currents generate losses named 'Proximity Effect Losses' or 'Strand-Level Proximity-Effect Losses', which can be evaluated using various models. The family tree of the main models in the literature is represented in the figure below. This <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">article</a> reviews and classifies the main models in the literature allowing for the evaluation of proximity effect losses in conductors for both circular and rectangular shapes. Amongst these models, you can choose the suitable one based on your application.  
 <br>
 👉 Read More:  
-<a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">📜 Review Article</a>   
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">📝 LinkedIn post</a>  
+📜 <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>   
+📝 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7171913659990945792" target="_blank">LinkedIn post</a>  
 
 <div><img src="/images/Post_3_Linkedin_Figure.jpg"
        alt="Picture"
@@ -91,8 +91,8 @@ For high frequency each effect, <a href="https://ieeexplore.ieee.org/document/10
 🔹 Circulating Currents: Finite Element coupled with a Circuit Model is unavoidable in cases of random geometry and frequency.  
 <br>
 👉 Read More:  
-<a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">📜 Review Article</a>  
-<a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">📝 LinkedIn post</a>  
+📜 <a href="https://ieeexplore.ieee.org/document/10366258" target="_blank">Review Article</a>  
+📝 <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_electricalmachines-electricmotors-pmsm-activity-7149245436267032576-80n-?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post</a>  
 
 <div><img src="/images/Post_2_Linkedin_Figure.jpg"
        alt="Picture"
@@ -107,8 +107,8 @@ For high frequency each effect, <a href="https://ieeexplore.ieee.org/document/10
 📊 The use of new technologies (high fill factor, high current density, and thin laminations) with speed lower than $20,000 rpm$ is a better alternative for high power density regarding the traditional automotive bearing limitations. Research work need to be focused on cooling techniques to evacuate high losses due to increased current density and fill factor.  
 <br>
 👉 Read More:  
-<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">📜 Research Article</a>  
-<a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_highspeed-highpowerdensity-electricmachine-activity-7041172937176985601-PS2k?utm_source=share&utm_medium=member_desktop" target="_blank">📝 LinkedIn post</a>  
+📜 <a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">Research Article</a>  
+📝 <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_highspeed-highpowerdensity-electricmachine-activity-7041172937176985601-PS2k?utm_source=share&utm_medium=member_desktop" target="_blank">LinkedIn post</a>  
 <div><img src="/images/Post_1_Linkedin_Figure.jpeg"
        alt="Picture"
        align="center"
