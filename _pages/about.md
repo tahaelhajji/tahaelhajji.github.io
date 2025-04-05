@@ -14,7 +14,7 @@ Hi,
 ![Illustration of electric machines](/images/homepage_electric_machines.png){: .align-right width="400px"}
 I'm **Taha El Hajji**, an **Electric Machine Designer**.  
 
-I am currently working as an **Electromagnetic Research Engineer** at <a href="https://www.aisin.com/en/" target="_blank">AISIN</a>, focusing on the design of new electric machines for electric vehicles.  
+I also worked as an **Electromagnetic Research Engineer** at <a href="https://www.aisin.com/en/" target="_blank">AISIN</a>, focusing on the design of new electric machines for electric vehicles.  
 
 I previously served as **Postdoctoral Researcher** at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> during two years, working on high speed electric machines for transport electrification.  
 
