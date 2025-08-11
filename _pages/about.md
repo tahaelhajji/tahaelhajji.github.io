@@ -22,9 +22,9 @@ My career as a motor designer:
 
 - **Postdoctoral Researcher** on Electric Motors at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> in Espoo, Finland.  
 
-- **Research Engineer** on Electric Motor at <a href="https://www.stellantis.com/en" target="_blank">Stellantis</a> in Paris, France.  
+- **Research Engineer** on Electric Motors at <a href="https://www.stellantis.com/en" target="_blank">Stellantis</a> in Paris, France.  
 
-- **PhD** in *Electrical Engineering* in March 2023 from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, faculty of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>, Gif-sur-Yvette, France.  
+- **PhD** in *Electrical Engineering* from <a href="https://ens-paris-saclay.fr/en" target="_blank">École Normale Supérieure Paris-Saclay</a>, faculty of <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>, Gif-sur-Yvette, France.  
 
 You can get information about my <a href="research">research</a>, my <a href="https://scholar.google.com/citations?user=n2NVwNAAAAAJ&hl=fr&oi=ao" target="_blank">publications</a>, my <a href="teaching">teachings</a>, my <a href="network-posts-archive"> posts</a>, and my <a href="/files/Resume_Taha_EL-HAJJI.pdf">resume</a>.
 
