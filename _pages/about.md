@@ -20,7 +20,7 @@ My career as a motor designer:
 
 - **Electromagnetic Research Engineer** at <a href="https://www.aisin.com/en/" target="_blank">AISIN</a> in Brighton, United Kingdom.  
 
-- **Postdoctoral Researcher** on Electric Motors at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> in Espoo, Finland.  
+- **Research Fellow** on Electric Motors at <a href="https://www.aalto.fi/en" target="_blank">Aalto University</a> in Espoo, Finland.  
 
 - **Research Engineer** on Electric Motors at <a href="https://www.stellantis.com/en" target="_blank">Stellantis</a> in Paris, France.  
 
