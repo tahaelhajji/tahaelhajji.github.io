@@ -13,7 +13,18 @@ redirect_from:
 Research Interests
 =
 
-My research work on Electric Machines is focusing on:
+My research work on Electric Machines encompasses the following topics:
+* **Electric Machines using Iron Nitride (FeN) magnets**:   
+This project concerns the design of machines using Iron Nitride (FeN) magnets in collaboration with (<a href="https://www.nironmagnetics.com/" target="_blank">Niron Magnetics</a>). This work aims to explore the potential of FeN magnets as a rare-earth-free alternative with high saturation magnetization and thermal stability. These magnets have low coercive force which presents challenges for maintaining magnetic performance under demagnetizing conditions. My work investigates material processing methods and motor design strategies to mitigate the effects of low coercivity, while maximizing overall efficiency and torque density.  
+<div><img src="/images/NironMagnetics.png"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
+
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
+
 * **Design of Electric Machines**:   
 The initial phase of the design process involves selecting the machine topology tailored to the specific application requirements. Typically, the machine is geometrically designed, often employing intricate mathematical equations to ensure the creation of viable machine geometries—a crucial aspect throughout the optimization phase. Assessment of the machine's diverse performances can be conducted through analytical or finite element models. In my practice, I rely on software tools such as Ansys, Comsol, and Femm to evaluate electromagnetic, mechanical, and thermal performances (<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">read more</a>). My studies have encompassed various machine types, including V-shaped PMSM, Inserted PMSM, Surface PMSM, and others.  
 <div><img src="/images/Design_Electric_Machine.png"
