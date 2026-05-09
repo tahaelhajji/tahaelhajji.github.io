@@ -13,6 +13,36 @@ redirect_from:
 Posts on Social Networks
 =
 
+
+<center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_alvibot-electricmotor-fea-activity-7456654328892801025-VR_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpXZuUBIJJBO5hXxBivr-suQX3fk3YuoXE"> JMAG  Co-Pilot</a></b></center>  
+
+
+Within the internal project portfolio at Alvier Mechatronics, I have been building an AI tool tailored specifically for the electric motor community. The result? JMAG Co-Pilot
+
+🤖 JMAG Co-Pilot: A case application of hashtag#Alvibot, an AI-powered assistant for electric motor engineers, researchers, and students providing expert support for inquiries regarding <a href="https://www.jmag-international.com/" target="_blank">JMAG</a> FEA software.
+
+Here are the features that make it unique:
+📚 Comprehensive Database: It is trained on a massive database composed of internationally relevant electric motor and JMAG references.
+⚡ Fast Answer Delivery: Provides you accurate answers within 20 seconds.
+🔍 Traceable Sourcing: Provides you exact references and citations for every inquiry.
+⚙️ Multi-LLM Support: Gives you the flexibility to switch between multiple LLMs.
+🧠 Query Reformulation: Questions can be adjusted to match JMAG terminology.
+🌐 Live Internet Search: Integrates online searches to pull in additional and up-to-date documentation.
+
+
+👉 JMAG Co-Pilot Demo:  
+📜 <a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_alvibot-electricmotor-fea-activity-7456654328892801025-VR_g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABpXZuUBIJJBO5hXxBivr-suQX3fk3YuoXE">Video Demo</a>   
+
+<div><img src="/images/JMAG_Co_Pilot.png"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
+
+
+<hr style="border:1px solid gray">  
+
 <center><b><a href="https://www.linkedin.com/posts/taha-el-hajji-research-electric-machines_circulatingcurrents-windings-electricalmachines-activity-7264301484920508416-Gv0Q?utm_source=share&utm_medium=member_desktop" target="_blank"> Do circulating current losses always lead to higher losses?</a></b></center>  
 
 
