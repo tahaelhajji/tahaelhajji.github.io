@@ -35,7 +35,7 @@ Here are the features that make it unique:
 <div><img src="/images/JMAG_Co_Pilot.png"
        alt="Picture"
        align="center"
-       width="600px"
+       width="900px"
        style="display: block; margin: 0 auto">
 </div>  
 
