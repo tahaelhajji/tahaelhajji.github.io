@@ -57,11 +57,11 @@ AlviBot is an intelligent chatbot system I am developing to assist engineers in 
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
 * **Design of Electric Machines**:   
-The initial phase of the design process involves selecting the machine topology tailored to the specific application requirements. Typically, the machine is geometrically designed, often employing intricate mathematical equations to ensure the creation of viable machine geometries—a crucial aspect throughout the optimization phase. Assessment of the machine's diverse performances can be conducted through analytical or finite element models. In my practice, I rely on software tools such as Ansys, Comsol, and Femm to evaluate electromagnetic, mechanical, and thermal performances (<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">read more</a>). My studies have encompassed various machine types, including V-shaped PMSM, Inserted PMSM, Surface PMSM, and others.  
+The initial phase of the design process involves selecting the machine topology tailored to the specific application requirements. Typically, the machine is geometrically designed, often employing intricate mathematical equations to ensure the creation of viable machine geometries—a crucial aspect throughout the optimization phase. Assessment of the machine's diverse performances can be conducted through analytical or finite element models. In my practice, I rely on software tools such as JMAG, MotorCAD, Ansys, Comsol, and Femm  to evaluate electromagnetic, mechanical, and thermal performances (<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">read more</a>). My studies have encompassed various machine types, including V-shaped PMSM, Inserted PMSM, Surface PMSM, and others.  
 <div><img src="/images/Design_Electric_Machine.png"
        alt="Picture"
        align="center"
-       width="600px"
+       width="800px"
        style="display: block; margin: 0 auto">
 </div>  
 
