@@ -21,7 +21,7 @@ You can also follow my research updates and posts on social network:
 - ResearchGate: <a href="https://www.researchgate.net/profile/Taha-El-Hajji" target="_blank">Link to my profile</a>
 - Linkedin: <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Link to my profile</a>  
 
-![Illustration of electric machines](/images/homepage_electric_machines_2.png){: .align-center width="400px"}
+
 
 <!---
 <a href="mailto:taha.elhajji@gmail.com">
