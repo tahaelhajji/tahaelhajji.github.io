@@ -21,7 +21,7 @@ Soft magnetic composites (SMCs) are unlocking new potential in electrically exci
 <div><img src="/images/EESM.png"
        alt="Picture"
        align="center"
-       width="600px"
+       width="300px"
        style="display: block; margin: 0 auto">
 </div>  
 
