@@ -15,7 +15,10 @@ Research Interests
 
 My research work on Electric Machines encompasses the following topics:
 * **Electric Machines using Iron Nitride (FeN) magnets**:   
-This project concerns the design of machines using Iron Nitride (FeN) magnets in collaboration with (<a href="https://www.nironmagnetics.com/" target="_blank">Niron Magnetics</a>). This work aims to explore the potential of FeN magnets as a rare-earth-free alternative with high saturation magnetization and thermal stability. These magnets have low coercive force which presents challenges for maintaining magnetic performance under demagnetizing conditions. My work investigates material processing methods and motor design strategies to mitigate the effects of low coercivity, while maximizing overall efficiency and torque density.  
+This project concerns the design of machines using Iron Nitride (FeN) magnets in collaboration with <a href="https://www.nironmagnetics.com/" target="_blank">Niron Magnetics</a>. This work aims to explore the potential of FeN magnets as a rare-earth-free alternative with high saturation magnetization and thermal stability. These magnets have low coercive force which presents challenges for maintaining magnetic performance under demagnetizing conditions. My work investigates material processing methods and motor design strategies to mitigate the effects of low coercivity, while maximizing overall efficiency and torque density.
+
+👉 Read More:   
+📜 <a href="https://arxiv.org/abs/2604.23707" target="_blank">Magnetization State of LCF Magnets</a>   
 <div><img src="/images/NironMagnetics.png"
        alt="Picture"
        align="center"
