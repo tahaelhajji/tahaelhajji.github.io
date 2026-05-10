@@ -15,12 +15,13 @@ You can reach out to me here:
 - **Linkedin**: <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Link to my profile</a>
 <br/><br/>
 
-![Illustration of electric machines](/images/homepage_electric_machines_2.png){: .align-center width="400px"}
 
 You can also follow my research updates and posts on social network:
 - Google Scholar: <a href="https://scholar.google.com/citations?user=n2NVwNAAAAAJ&hl=fr&oi=ao" target="_blank">Link to my profile</a>
 - ResearchGate: <a href="https://www.researchgate.net/profile/Taha-El-Hajji" target="_blank">Link to my profile</a>
 - Linkedin: <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Link to my profile</a>  
+
+![Illustration of electric machines](/images/homepage_electric_machines_2.png){: .align-center width="400px"}
 
 <!---
 <a href="mailto:taha.elhajji@gmail.com">
