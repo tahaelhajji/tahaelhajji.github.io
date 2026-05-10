@@ -17,16 +17,18 @@ My research work on Electric Machines encompasses the following topics:
 
 
 * **Electrically Excited Synchronous Machines with SMC**:   
-Soft magnetic composites (SMCs) are unlocking new potential in electrically excited synchronous machines (EESMs) for automotive traction. While typically reserved for axial-flux designs, this work shows they can deliver impressive gains in a radial-flux EESM. By using an SMC stator paired with a 0.35 mm NO35 laminated steel rotor, the motor achieves higher torque and improved efficiency compared to conventional setups. When integrated into a full electric drive unit, it reaches 89.7% efficiency over the WLTP cycle—a 1.4 percentage-point jump over a baseline permanent magnet machine. The real payoff: no rare earths, lower cost thanks to thicker laminations, and a smaller environmental footprint through SMC processing. It’s a fresh materials combination for radial EESMs, and a compelling path toward affordable, sustainable, high-efficiency traction without permanent magnets.   
+Soft magnetic composites (SMCs) are unlocking new potential in electrically excited synchronous machines (EESMs) for automotive traction. While typically reserved for axial-flux designs, this work shows they can deliver impressive gains in a radial-flux EESM. By using an SMC stator paired with a 0.35 mm NO35 laminated steel rotor, the motor achieves higher torque and improved efficiency compared to conventional setups. When integrated into a full electric drive unit, it reaches 89.7% efficiency over the WLTP cycle—a 1.4 percentage-point jump over a baseline permanent magnet machine. The real payoff: no rare earths, lower cost thanks to thicker laminations, and a smaller environmental footprint through SMC processing. It’s a fresh materials combination for radial EESMs, and a compelling path toward affordable, sustainable, high-efficiency traction without permanent magnets.
+
+👉 Read More:   
+📜 <a href="https://arxiv.org/abs/2605.05853" target="_blank">SMC benefits in EESM</a>
 <div><img src="/images/EESM.png"
        alt="Picture"
        align="center"
-       width="300px"
+       width="400px"
        style="display: block; margin: 0 auto">
 </div>  
 
-👉 Read More:   
-📜 <a href="https://arxiv.org/abs/2605.05853" target="_blank">SMC benefits in EESM</a>   
+
 
 
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
@@ -39,7 +41,7 @@ This project concerns the design of machines using Iron Nitride (FeN) magnets in
 <div><img src="/images/Picture4.png"
        alt="Picture"
        align="center"
-       width="600px"
+       width="450px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -50,7 +52,7 @@ AlviBot is an intelligent chatbot system I am developing to assist engineers in 
 <div><img src="/images/AlviBot.png"
        alt="Picture"
        align="center"
-       width="600px"
+       width="300px"
        style="display: block; margin: 0 auto">
 </div>  
 
@@ -70,12 +72,7 @@ The initial phase of the design process involves selecting the machine topology 
 + **High-Speed Machines**:  
 High-speed machines offer compact solutions across diverse applications, but addressing associated challenges is imperative. Issues such as the mechanical integrity of the rotor and high-frequency phenomena in various machine components demand thorough investigation. In my research, I concentrated on analyzing high-frequency phenomena within windings, stator, and rotor core, particularly delving into electromagnetic aspects. Additionally, I explored the mechanical and thermal dimensions. Achieving high power density in lieu of high speed involves alternatives like elevating current density and fill factor in slots, necessitating robust cooling techniques (<a href="https://www.mdpi.com/2075-1702/11/1/57" target="_blank">read more</a>).  
 <!--- To avoid aligned photo, rather than two spaces at the end, it is possible to add <div> at the beginning and </div> at the end --->
-<div><img src="/images/HighSpeed.png"
-       alt="Picture"
-       align="center"
-       width="300px"
-       style="display: block; margin: 0 auto">
-</div>  
+
 
 <hr style="height:1px;border:none;color:#969696;background-color:#969696;">
 
