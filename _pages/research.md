@@ -38,7 +38,7 @@ This project concerns the design of machines using Iron Nitride (FeN) magnets in
 
 👉 Read More:   
 📜 <a href="https://arxiv.org/abs/2604.23707" target="_blank">Magnetization State of LCF Magnets</a>   
-<div><img src="/images/Picture4.png"
+<div><img src="/images/Picture3.png"
        alt="Picture"
        align="center"
        width="450px"
