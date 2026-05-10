@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-You are a researcher, a company, a student, ... and would like to get in touch, you can reach out to me:
-- Email: **taha.elhajji(at)gmail.com**
-- Linkedin: <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Link to my profile</a>
+You can reach out to me here:
+- **Email**: taha.elhajji(at)gmail.com
+- **Linkedin**: <a href="https://www.linkedin.com/in/taha-el-hajji-research-electric-machines/" target="_blank">Link to my profile</a>
 <br/><br/>
 
 You can also follow my research updates and posts on social network:
