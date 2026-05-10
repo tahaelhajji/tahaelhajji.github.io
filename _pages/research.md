@@ -14,6 +14,18 @@ Research Interests
 =
 
 My research work on Electric Machines encompasses the following topics:
+
+
+* **Electrically Excited Synchronous Machines with SMC**:   
+Soft magnetic composites (SMCs) are unlocking new potential in electrically excited synchronous machines (EESMs) for automotive traction. While typically reserved for axial-flux designs, this work shows they can deliver impressive gains in a radial-flux EESM. By using an SMC stator paired with a 0.35 mm NO35 laminated steel rotor, the motor achieves higher torque and improved efficiency compared to conventional setups. When integrated into a full electric drive unit, it reaches 89.7% efficiency over the WLTP cycle—a 1.4 percentage-point jump over a baseline permanent magnet machine. The real payoff: no rare earths, lower cost thanks to thicker laminations, and a smaller environmental footprint through SMC processing. It’s a fresh materials combination for radial EESMs, and a compelling path toward affordable, sustainable, high-efficiency traction without permanent magnets.
+
+
+👉 Read More:   
+📜 <a href="https://arxiv.org/abs/2605.05853" target="_blank">SMC benefits in EESM</a>   
+
+
+<hr style="height:1px;border:none;color:#969696;background-color:#969696;">
+
 * **Electric Machines using Iron Nitride (FeN) magnets**:   
 This project concerns the design of machines using Iron Nitride (FeN) magnets in collaboration with <a href="https://www.nironmagnetics.com/" target="_blank">Niron Magnetics</a>. This work aims to explore the potential of FeN magnets as a rare-earth-free alternative with high saturation magnetization and thermal stability. These magnets have low coercive force which presents challenges for maintaining magnetic performance under demagnetizing conditions. My work investigates material processing methods and motor design strategies to mitigate the effects of low coercivity, while maximizing overall efficiency and torque density.
 
