@@ -17,8 +17,13 @@ My research work on Electric Machines encompasses the following topics:
 
 
 * **Electrically Excited Synchronous Machines with SMC**:   
-Soft magnetic composites (SMCs) are unlocking new potential in electrically excited synchronous machines (EESMs) for automotive traction. While typically reserved for axial-flux designs, this work shows they can deliver impressive gains in a radial-flux EESM. By using an SMC stator paired with a 0.35 mm NO35 laminated steel rotor, the motor achieves higher torque and improved efficiency compared to conventional setups. When integrated into a full electric drive unit, it reaches 89.7% efficiency over the WLTP cycle—a 1.4 percentage-point jump over a baseline permanent magnet machine. The real payoff: no rare earths, lower cost thanks to thicker laminations, and a smaller environmental footprint through SMC processing. It’s a fresh materials combination for radial EESMs, and a compelling path toward affordable, sustainable, high-efficiency traction without permanent magnets.
-
+Soft magnetic composites (SMCs) are unlocking new potential in electrically excited synchronous machines (EESMs) for automotive traction. While typically reserved for axial-flux designs, this work shows they can deliver impressive gains in a radial-flux EESM. By using an SMC stator paired with a 0.35 mm NO35 laminated steel rotor, the motor achieves higher torque and improved efficiency compared to conventional setups. When integrated into a full electric drive unit, it reaches 89.7% efficiency over the WLTP cycle—a 1.4 percentage-point jump over a baseline permanent magnet machine. The real payoff: no rare earths, lower cost thanks to thicker laminations, and a smaller environmental footprint through SMC processing. It’s a fresh materials combination for radial EESMs, and a compelling path toward affordable, sustainable, high-efficiency traction without permanent magnets.   
+<div><img src="/images/EESM.png"
+       alt="Picture"
+       align="center"
+       width="600px"
+       style="display: block; margin: 0 auto">
+</div>  
 
 👉 Read More:   
 📜 <a href="https://arxiv.org/abs/2605.05853" target="_blank">SMC benefits in EESM</a>   
@@ -31,7 +36,7 @@ This project concerns the design of machines using Iron Nitride (FeN) magnets in
 
 👉 Read More:   
 📜 <a href="https://arxiv.org/abs/2604.23707" target="_blank">Magnetization State of LCF Magnets</a>   
-<div><img src="/images/NironMagnetics.png"
+<div><img src="/images/Picture4.png"
        alt="Picture"
        align="center"
        width="600px"
