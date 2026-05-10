@@ -14,7 +14,7 @@ Hi,
 
 I'm **Taha El Hajji**, an **Electric Machine Designer**.  
 
-![Illustration of electric machines](/images/homepage_electric_machines_3.png){: .align-center width="700px"}
+![Illustration of electric machines](/images/homepage_electric_machines_3.png){: .align-center width="400px"}
 
 
 My career as a motor designer:  
