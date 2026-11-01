@@ -18,6 +18,8 @@ I'm **Taha El Hajji**, an **Electric Machine Designer**.
 
 My career as a motor designer:  
 
+- **Senior Electromagnetic Engineer** working on design and production of motors.  
+
 - **Senior Application Specialist** on Electric Motors at Alvier Mechatronics in Sweden.  
 
 - **Electromagnetic Research Engineer** at <a href="https://www.aisin.com/en/" target="_blank">AISIN</a> in Brighton, United Kingdom.  
