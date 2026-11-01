@@ -12,7 +12,7 @@ redirect_from:
 Hi,  
 
 
-I'm **Taha El Hajji**, an **Electric Machine Designer**.  
+I'm **Taha El Hajji**, a **Senior Electromagnetic Engineer** focusing on Motor Design.  
 
 
 
